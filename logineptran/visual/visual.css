@@ -1,0 +1,20 @@
+#cabeçario{
+    background-color: #fab728;
+
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: center;
+}
+
+#brasão{
+    width: 10%;
+}
+#aba{
+    height: 5%;
+    width: 100%;
+}
+#foca {
+    display: flex;
+    
+}
