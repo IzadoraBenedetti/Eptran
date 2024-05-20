@@ -1,0 +1,33 @@
+#cabeçario{
+    background-color: #fab728;
+
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: center;
+}
+
+#brasão{
+    width: 10%;
+}
+#aba{
+    height: 5%;
+    width: 100%;
+}
+
+#principal{
+    display: flex;
+    justify-content: center;
+    
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+}
+
+.value {
+    align-items: center;
+    margin: 0% 0% 10% 0%;
+
+}
+#foto{
+    display: flex;
+}
