@@ -41,3 +41,11 @@ input{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+#Cadastrar{
+    margin: 10px;
+    background-color: #fab728;
+    border-radius: 100px;
+    width: 180px;
+    height: 40px;
+    font-size: 15px;
+}
