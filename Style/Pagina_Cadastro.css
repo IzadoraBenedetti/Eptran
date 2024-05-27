@@ -49,3 +49,12 @@ input{
     height: 40px;
     font-size: 15px;
 }
+#voltar{
+    margin: 10px;
+    background-color: #fab728;
+    border-radius: 100px;
+    width: 180px;
+    height: 40px;
+    font-size: 15px;
+    align-items: center;
+}
