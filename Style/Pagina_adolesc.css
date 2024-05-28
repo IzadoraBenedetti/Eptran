@@ -8,6 +8,14 @@
     justify-content: space-between;
     align-content: flex-start;
     align-items: center;
+    div{
+        width: 100%;
+    }
+    #middle{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
 
 
@@ -34,4 +42,10 @@
 #avisos{
     display: flex;
     text-align:center;
+}
+
+#button-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
