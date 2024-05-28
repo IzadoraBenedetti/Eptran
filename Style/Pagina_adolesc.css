@@ -15,6 +15,23 @@
     text-align: center;
 }
 
-#barra{
-    width: 10%;
+#barra2{
+    width: 100%;
+    text-align: center;
+   display: flex;
+}
+
+#guri{
+
+    text-align: center;
+}
+
+#botoes{
+    text-align: center;
+    display: flex;
+}
+
+#avisos{
+    display: flex;
+    text-align:center;
 }
