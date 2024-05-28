@@ -1,0 +1,14 @@
+#body{}
+
+
+#cabecalho{
+    text-align:left;
+    background-color: rgb(255, 201, 101);
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: center;
+}
+
+
+
