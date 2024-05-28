@@ -1,0 +1,60 @@
+#cabeçario{
+    background-color: #fab728;
+
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: center;
+}
+
+#brasão{
+    width: 10%;
+}
+#aba{
+    height: 5%;
+    width: 100%;
+}
+
+#principal{
+    display: flex;
+    justify-content: center;
+    
+    justify-content: space-evenly;
+    flex-wrap: nowrap;
+}
+
+.value {
+    align-items: center;
+    margin: 0% 0% 10% 0%;
+    
+}
+#foto{
+    display: flex;
+}
+input{
+    
+    border-radius: 100px;
+    background-color: #fab728;
+}
+
+#Cadastro{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Cadastrar{
+    margin: 10px;
+    background-color: #fab728;
+    border-radius: 100px;
+    width: 180px;
+    height: 40px;
+    font-size: 15px;
+}
+#voltar{
+    margin: 10px;
+    background-color: #fab728;
+    border-radius: 50px;
+    width: 180px;
+    height: 20px;
+    font-size: 15px;
+    align-items: center;
+}

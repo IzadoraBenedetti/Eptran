@@ -1,0 +1,37 @@
+#body{}
+
+
+#cabecalho{
+    text-align:left;
+    background-color: rgb(255, 201, 101);
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: center;
+}
+
+
+#eptran{
+    text-align: center;
+}
+
+#barra2{
+    width: 100%;
+    text-align: center;
+   display: flex;
+}
+
+#guri{
+
+    text-align: center;
+}
+
+#botoes{
+    text-align: center;
+    display: flex;
+}
+
+#avisos{
+    display: flex;
+    text-align:center;
+}
