@@ -30,24 +30,22 @@
    display: flex;
 }
 
-#guri{
-
+#escrita{
     text-align: center;
+    color: #023859;
 }
 
-#botoes{
-    text-align: center;
+.buttons-div{
+    width: 100%;
     display: flex;
-}
-
-#avisos{
-    display: flex;
-    text-align:center;
-}
-
-#button-section{
-    display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    .butons{
+        border-radius: 15px;
+        font-size: 2vw;
+        width: 100%;
+        background-color: #023859;
+        color: white;
+    
+    }
 }
-
