@@ -1,5 +1,5 @@
 #cabeçario{
-    background-color: #fab728;
+    background-color: #023859;
 
     display: flex;
     justify-content: space-between;
@@ -34,7 +34,7 @@
 input{
     
     border-radius: 100px;
-    background-color: #fab728;
+    background-color: #023859;
 }
 
 #Cadastro{
@@ -43,7 +43,7 @@ input{
 }
 #Cadastrar{
     margin: 10px;
-    background-color: #fab728;
+    background-color: #023859;
     border-radius: 100px;
     width: 180px;
     height: 40px;
@@ -51,7 +51,7 @@ input{
 }
 #voltar{
     margin: 10px;
-    background-color: #fab728;
+    background-color: #023859;
     border-radius: 50px;
     width: 180px;
     height: 20px;
