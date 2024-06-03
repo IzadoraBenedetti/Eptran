@@ -72,7 +72,7 @@ main {
 }
 
 .login-container {
-  background-color: #fab728;
+  background-color: #023859;
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 1px;
@@ -99,8 +99,8 @@ input[type="text"], input[type="password"] {
 }
 
 #login-btn {
-  background-color: #111111;
-  color: #fff;
+  background-color: #ffffff;
+  color: #000000;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
@@ -140,4 +140,19 @@ input[type="text"], input[type="password"] {
   text-align: center;
   align-self: center;
   max-width: 120%;
+}
+#cabecalho{
+  background-color: #023859;
+  display: flex;
+  justify-content: space-between;
+  align-content: flex-start;
+  align-items: center;
+}
+
+#brasão{
+  width: 90px;
+  
+}
+#eptran{
+  width: 90px;
 }
