@@ -1,4 +1,6 @@
-#body{}
+body, html{
+    margin: 0;
+}
 
 
 #cabecalho{
@@ -43,6 +45,8 @@
 #avisos{
     display: flex;
     text-align:center;
+    justify-content: center;
+    align
 }
 
 #button-section{
