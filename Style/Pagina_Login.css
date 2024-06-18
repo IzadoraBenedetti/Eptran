@@ -1,15 +1,5 @@
-#cabeçario{
-  background-color: #fab728;
 
-  display: flex;
-  justify-content: space-between;
-  align-content: flex-start;
-  align-items: center;
-}
 
-#brasão{
-  width: 10%;
-}
 #aba{
   height: 5%;
   width: 100%;
@@ -72,7 +62,7 @@ main {
 }
 
 .login-container {
-  background-color: #023859;
+  background-color: #629cbf;
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 1px;
